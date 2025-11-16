@@ -1,0 +1,26 @@
+README - Sistema d'Ordenació de Quests en Java
+Miguel Moreno Hernández - miguel.moreno@students.salle.url.edu
+Gerard Pou Canut - gerard.pou@students.salle.url.edu
+
+DESCRIPCIÓ GENERAL
+
+Aquest projecte implementa diversos algoritmes d’ordenació aplicats a una llista de Quests llegides des d’un fitxer .paed.
+El programa permet ordenar les Quests per data o per dificultat, visualitzar-les i mesurar el temps d'execució de diferents mètodes d'ordenació.
+
+Els algoritmes disponibles són:
+- Insertion Sort
+- Selection Sort
+- Quick Sort
+- Merge Sort
+
+TECNOLOGIES UTILITZADES
+- Llenguatge utilitzat: Java
+- Versió recomanada: Java 17 o superior
+- IDE utilitzat: IntelliJ IDEA Community Edition
+- Llibreries utilitzades: java.util, java.time
+
+COMPILACIÓ DEL PROJECTE:
+1. Al executar-se s'obrirà un menú amb 5 opcions on es podrà escollir l'algoritme d'ordenació o visualitzar llistes ja ordenades.
+2. En cas d'escollir un algoritme, el programa mostrarà la llista ordenada i el temps d'execució.
+3. En cas d'escollir visualitzar llistes ordenades, es desplegarà un altre menu on es podrà escollir quin dels dos datasets es vol utilitzar
+
