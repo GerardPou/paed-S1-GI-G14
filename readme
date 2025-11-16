@@ -2,6 +2,8 @@ README - Sistema d'Ordenació de Quests en Java
 Miguel Moreno Hernández - miguel.moreno@students.salle.url.edu
 Gerard Pou Canut - gerard.pou@students.salle.url.edu
 
+{link al git: https://github.com/GerardPou/paed-S1-GI-G14}
+
 DESCRIPCIÓ GENERAL
 
 Aquest projecte implementa diversos algoritmes d’ordenació aplicats a una llista de Quests llegides des d’un fitxer .paed.
